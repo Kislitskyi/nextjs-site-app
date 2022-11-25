@@ -770,6 +770,7 @@ const SectionOfPlan = styled.div`
 const Items = styled.div`
     display: flex;
     padding: 0 100px;
+    min-height: 500px;
     max-height: 600px;
     justify-content: space-between;
     flex-direction: row-reverse;
